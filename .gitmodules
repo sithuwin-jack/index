@@ -1,0 +1,9 @@
+[submodule "themes/theme"]
+	path = themes/theme
+	url = https://github.com/themefisher/vex-hugo.git
+[submodule "themes/sithu"]
+	path = themes/sithu
+	url = https://github.com/tcgriffith/hugo-owaraiclub.git
+[submodule "themes/sithu1"]
+	path = themes/sithu1
+	url = https://github.com/syui/hugo-theme-air.git
